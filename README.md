@@ -3,8 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
+<!--
 ![Guilherme stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLopesCardoso&show_icons=true&theme=dracula&count_private=true)
-
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLopesCardoso&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme github stats" /> 
