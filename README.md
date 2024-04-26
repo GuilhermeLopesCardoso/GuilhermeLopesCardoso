@@ -23,7 +23,7 @@
 <div style="display: inline_block">
   <img align="center" alt="postgres" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="qlik sense" src="https://img.shields.io/badge/Qlik?style=for-the-badge&logo=qlik&logoColor=green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/qlik?style=for-the-badge&logo=qlik&logoColor=green&link=logosandtypes.com%2Fwp-content%2Fuploads%2F2024%2F01%2Fqlik.svg">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP?style=for-the-badge&logo=php&logoColor=green">
 
 
