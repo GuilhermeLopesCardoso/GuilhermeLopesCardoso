@@ -1,8 +1,12 @@
+## Apresentação
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
 
 [![Guilherme github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeLopesCardoso&bg_color=121212&color=ffffff&line=0a74ff&point=a8d9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+## Status
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLopesCardoso&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesCardoso&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
@@ -31,7 +35,7 @@
 </div>
 
 <div align="left">
-<br><p align="left"><b>Visitors Count</b></p>  
+<br> 
 <p align="center"><img align="left" src="https://profile-counter.glitch.me/{GuilhermeLopesCardoso}/count.svg" /></p> 
 <br>
 </div>
