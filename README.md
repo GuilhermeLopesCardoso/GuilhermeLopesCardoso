@@ -33,6 +33,12 @@
 
 </div>
 
+<div align="left">
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="center"><img align="left" src="https://profile-counter.glitch.me/{GuilhermeLopesCardoso}/count.svg" /></p> 
+<br>
+</div>
+
 
 <!--
 <div style="display: inline_block">
