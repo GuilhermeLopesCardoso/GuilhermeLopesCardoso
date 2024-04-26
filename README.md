@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
+## Gráfico de Contribuição
 
 [![Guilherme github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeLopesCardoso&bg_color=121212&color=ffffff&line=0a74ff&point=a8d9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
