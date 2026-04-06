@@ -14,14 +14,3 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="qliksense" src="https://img.shields.io/badge/qliksense-qliksense?style=for-the-badge&logo=Qlik&color=246625">
   <img align="center" alt="php" src="https://img.shields.io/badge/php-php?style=for-the-badge&logo=PHP&logoColor=ffffff&color=435a8c">
-
-
-## Visitors Count
-</div>
-
-<div align="left">
-<br> 
-<p align="center"><img align="left" src="https://profile-counter.glitch.me/{GuilhermeLopesCardoso}/count.svg" /></p> 
-<br>
-</div>
-
