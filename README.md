@@ -1,6 +1,6 @@
 ## Apresentação
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme)](https://git.io/typing-svg)
 
 ## Gráfico de Contribuição
 
